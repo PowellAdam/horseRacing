@@ -1,0 +1,11 @@
+﻿  powellAssign5Betting.c
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(46): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(66): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(66): warning C4024: 'makeBets': different types for formal and actual parameter 1
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(72): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(72): warning C4024: 'winsList': different types for formal and actual parameter 2
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(239): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(239): warning C4024: 'winsList': different types for formal and actual parameter 2
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(180): warning C4101: 'input': unreferenced local variable
+c:\users\apowe\source\repos\powellassign05horsebetting\powellassign05horsebetting\powellassign5betting.c(420): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  powellAssign05HorseBetting.vcxproj -> C:\Users\apowe\source\repos\powellAssign05HorseBetting\Debug\powellAssign05HorseBetting.exe
